@@ -1,2 +1,2 @@
-# MP3Clip_Lame
-MP3裁剪
+# MP3ClipDemo
+MP3ClipDemo
